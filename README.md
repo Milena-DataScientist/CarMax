@@ -1,1 +1,1 @@
-# CarMax 2023 competition
+# CarMax 2023 Competition
